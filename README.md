@@ -1,3 +1,17 @@
+This project demonstrates how to use the json-to-table package:
+https://www.npmjs.com/package/json-to-table
+
+1. Clone the repo using Github desktop and open in VS Code
+2. Open a terminal and install json-to-table package using the command:
+     $> npm install json-to-table
+3. update the repo using the command:
+     $> npm install
+4. Run the project using the command:
+     $> npm start
+5. The project has a few different JSON data files that show how json-to-table can render complicated data structures
+
+Below is the readme documentation that is added when you use 'create-react-app' to bootstrap your project:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
